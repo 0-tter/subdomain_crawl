@@ -2,7 +2,7 @@ import re
 import requests
 import urllib.parse as urlparse
 
-target_url = "http://링크"
+target_url = "https://www.yna.co.kr"
 target_links = []
 
 def extract_link_from(url):
